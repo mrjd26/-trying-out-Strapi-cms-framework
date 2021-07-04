@@ -2,7 +2,7 @@
 tinkering with a cms framework for node / js ecosystem
 
 
-<img src="https://storage.cloud.google.com/mikeblog.appspot.com/strapi-FAILIURE.png" />
+![STRAPI FAIL](STRAPI_FAIL.png)
 
 
 
