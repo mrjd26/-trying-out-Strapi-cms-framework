@@ -2,7 +2,7 @@
 tinkering with a cms framework for node / js ecosystem
 
 
-![STRAPI FAIL](STRAPI_FAIL.png)
+![STRAPI FAIL](strapi-fail.png)
 
 
 
